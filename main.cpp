@@ -7,6 +7,7 @@ int main() {
     system("chcp 65001 > nul"); // コンソールをUTF-8にする設定
 
     printf("Hellow, World!\n");
+    printf("GoodMoring, World!\n");
     printf("GoodNight, World!\n");
 
     return 0;
